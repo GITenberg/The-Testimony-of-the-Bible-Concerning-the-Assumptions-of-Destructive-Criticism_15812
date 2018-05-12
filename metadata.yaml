@@ -1,0 +1,27 @@
+_repo: The-Testimony-of-the-Bible-Concerning-the-Assumptions-of-Destructive-Criticism_15812
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Wishard, S. E. (Samuel Ellis)
+    alias: Wishard, Samuel E. (Samuel Ellis)
+    birthdate: 1825
+    deathdate: 1915
+    gutenberg_agent_id: '6309'
+    url: http://www.gutenberg.org/2009/agents/6309
+description: ''
+gutenberg_issued: '2005-05-10'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15812'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'BS'
+- !lcsh 'Bible -- Criticism, interpretation, etc.'
+title: The Testimony of the Bible Concerning the Assumptions of Destructive Criticism
+url: http://www.gutenberg.org/ebooks/15812
